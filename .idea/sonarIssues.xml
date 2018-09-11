@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="F:/ZAPLAB/BugFixes_04-07-2018/webtest/src/test/java/org/naic/mfl/se/challenge/SeleniumGrid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ZAPLAB/BugFixes_04-07-2018/webtest/src/test/java/org/naic/mfl/se/challenge/SeleniumGrid2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ZAPLAB/BugFixes_04-07-2018/webtest/src/test/java/org/naic/mfl/se/challenge/WebTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ZAPLAB/BugFixes_04-07-2018/webtest/src/test/resources/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/core/framework/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/core/framework/BaseStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/core/framework/FrameWorkConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/core/framework/WebDriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/core/utils/Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/core/utils/WebContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/pageobjects/Login.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/pageobjects/SamplePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/automation/scenarios/SampleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
