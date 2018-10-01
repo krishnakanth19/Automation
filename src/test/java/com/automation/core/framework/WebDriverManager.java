@@ -9,6 +9,8 @@ public class WebDriverManager {
     public static WebDriver initializeWebDriver(){
         String chromePath = FrameWorkConstants.CHROME_DRIVER_PATH;
         System.setProperty("webdriver.chrome.driver",chromePath);
+		ChromeOptions options = new ChromeOptions();
+        options.addArguments("--headless");                         //Run in headless mode. i.e. no browser open.
         driver = new ChromeDriver();
         return driver;
     }
